@@ -1,3 +1,4 @@
+
 .Header{    
     width:81.50%;height:12.00%;
     position: fixed;
@@ -54,8 +55,7 @@ body    {background-image: url(../img/back.jpg);
     color: black }
 
 
-.main {
-    margin-left: 160px; 
+.main {margin-left: 160px; 
     padding: 0px 10px;}
 
 .Gambar {  width:70%;height:55%;
@@ -91,4 +91,5 @@ body    {background-image: url(../img/back.jpg);
     color: white; margin-top: 5%}
 
 .Definition {font-family: Doctor Soos Light;
-        font-size: 25px;color: white;text-align: center;}
+        font-size: 25px;color: white;text-align: r;}
+
