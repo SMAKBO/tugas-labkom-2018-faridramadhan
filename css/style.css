@@ -5,11 +5,11 @@
     left:17%;
     margin-right: 2%;
     z-index: 1;
-    background-image: url(../img/32.jpg);
+    background-image: url(../img/top.png);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8);
-    border-radius: 5px;}
+    border-radius: 20px 20px 20px 20px;}
 
 .Nama {font-family: Varsity Regular;
     font-size:5.5vh;
@@ -35,11 +35,11 @@ body    {background-image: url(../img/back.jpg);
     z-index: 1;
     top: 0; 
     left: 0;
-    background-image:url(../img/32.jpg); 
+    background-image:url(../img/top.png); 
     overflow-x: hidden; 
     padding-top: 180px;
     box-shadow: 0 8px 16px  rgba(0,0,0,0.8);
-    border-radius: 10px;}
+    border-radius: 20px 20px 20px 20px;}
 
 .sidenav a {
     padding: 6px 8px 6px 16px;
@@ -57,3 +57,38 @@ body    {background-image: url(../img/back.jpg);
 .main {
     margin-left: 160px; 
     padding: 0px 10px;}
+
+.Gambar {  width:70%;height:55%;
+    position: absolute;
+    top:20%;
+    left:22.5%;
+    margin-right: 2%;
+    z-index: -3;
+    background-image: url(../img/top.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.Topimage {width: 80%;
+    margin-left: 17%;
+    margin-top: -5%}
+
+
+.KotakDef{width:78%;height:40%;
+    top:80%;
+    left:24.5%;
+    position: absolute;
+    z-index: -1;
+    background-image: url("../img/top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.JudulDef {font-family: EDO SZ;
+    font-size: 40px;
+    color: white; margin-top: 5%}
+
+.Definition {font-family: Doctor Soos Light;
+        font-size: 25px;color: white;text-align: center;}
