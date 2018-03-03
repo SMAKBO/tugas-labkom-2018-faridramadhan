@@ -75,3 +75,20 @@ body    {background-image: url(../img/back.jpg);
     margin-top: -5%}
 
 
+.KotakDef{width:78%;height:40%;
+    top:80%;
+    left:24.5%;
+    position: absolute;
+    z-index: -1;
+    background-image: url("../img/top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.JudulDef {font-family: EDO SZ;
+    font-size: 40px;
+    color: white; margin-top: 5%}
+
+.Definition {font-family: Doctor Soos Light;
+        font-size: 25px;color: white;text-align: center;}
