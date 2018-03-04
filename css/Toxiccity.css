@@ -1,0 +1,120 @@
+Header{    
+    width:81.50%;height:12.00%;
+    position: fixed;
+    top:1.5%;
+    left:17%;
+    margin-right: 2%;
+    z-index: 1;
+    background-image: url(../img/top.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.Nama {font-family: Varsity Regular;
+    font-size:5.5vh;
+    color:white;position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    margin-left:5%}
+
+body    {background-image: url(../img/back.jpg);
+        height: 70%;
+        width: 100%;}
+
+.Logo {width: 160%; 
+    height: 50%;
+    margin-top: -100%;
+    margin-left: -32%;}
+
+.sidenav {
+    height: 100%;
+    width: 200px; 
+    position: fixed;
+    z-index: 1;
+    top: 0; 
+    left: 0;
+    background-image:url(../img/top.png); 
+    overflow-x: hidden; 
+    padding-top: 180px;
+    box-shadow: 0 8px 16px  rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: Varsity Regular;
+    color: white;
+    display: block;}
+
+.sidenav a:hover{
+    background-color: white;
+    color: black }
+
+
+.main {margin-left: 160px; 
+    padding: 0px 10px;}
+
+.Topimage {width:70%;height:55%;
+    position: absolute;
+    top:20%;
+    left:22.5%;
+    margin-right: 2%;
+    z-index: -3;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+
+.KotakDef{width:78%;height:40%;
+    margin-top:67%;
+    position: absolute;
+    z-index: -1;
+    background-image: url("../img/top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.JudulDef {font-family: EDO SZ;
+    font-size: 40px;
+    color: white; margin-top: 5%}
+
+.Definition {font-family: Doctor Soos Light;
+        font-size: 25px;color: white;text-align: r;}
+
+.KotakS{width:78%;height:40%;
+    margin-top:42%;
+    position: absolute;
+    z-index: -1;
+    background-image: url("../img/top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.JudulS {font-family: EDO SZ;
+    font-size: 40px;
+    color: white; margin-top: 5%}
+
+.Struktur {margin-top: -15%;
+    font-family: Doctor Soos Light;
+        font-size: 25px;color: white;}
+
+footer {text-align: center;
+    font-family: Varsity Regular;
+    color:white;
+    font-size: 30px;
+    width:78%;height:10%;
+    margin-top:90%;
+    margin-left:20% ;
+    position: absolute;
+    z-index: -1;
+    background-image: url("../img/top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
