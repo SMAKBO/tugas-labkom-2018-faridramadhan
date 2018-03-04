@@ -58,26 +58,20 @@ body    {background-image: url(../img/back.jpg);
 .main {margin-left: 160px; 
     padding: 0px 10px;}
 
-.Gambar {  width:70%;height:55%;
+.Topimage {width:70%;height:55%;
     position: absolute;
     top:20%;
     left:22.5%;
     margin-right: 2%;
     z-index: -3;
-    background-image: url(../img/top.png);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
     border-radius: 20px 20px 20px 20px;}
 
-.Topimage {width: 80%;
-    margin-left: 17%;
-    margin-top: -5%}
-
 
 .KotakDef{width:78%;height:40%;
-    top:80%;
-    left:24.5%;
+    margin-top:67%;
     position: absolute;
     z-index: -1;
     background-image: url("../img/top.png");
@@ -92,4 +86,25 @@ body    {background-image: url(../img/back.jpg);
 
 .Definition {font-family: Doctor Soos Light;
         font-size: 25px;color: white;text-align: r;}
+
+.KotakS{width:78%;height:40%;
+    margin-top:42%;
+    position: absolute;
+    z-index: -1;
+    background-image: url("../img/top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.JudulS {font-family: EDO SZ;
+    font-size: 40px;
+    color: white; margin-top: 5%}
+
+.Struktur {margin-top: -15%;
+    font-family: Doctor Soos Light;
+        font-size: 25px;color: white;}
+
+
+
 
