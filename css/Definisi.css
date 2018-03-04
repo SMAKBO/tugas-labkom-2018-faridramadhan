@@ -96,12 +96,9 @@ body    {background-image: url(../img/back.jpg);
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
     border-radius: 20px 20px 20px 20px;}
 
-footer {text-align: center;
-    font-family: Varsity Regular;
-    color:white;
-    font-size: 30px;
-    width:78%;height:10%;
-    margin-top:90%;
+footer {
+    width:78%;height:19%;
+    margin-top:89%;
     margin-left:18% ;
     position: absolute;
     z-index: -1;
@@ -110,3 +107,7 @@ footer {text-align: center;
     background-repeat: no-repeat;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
     border-radius: 20px 20px 20px 20px;}
+
+.MadeBy {font-family: Varsity Regular;
+    font-size: 40px;padding-left: 3%;}
+
