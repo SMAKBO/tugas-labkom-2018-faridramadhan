@@ -87,33 +87,14 @@ body    {background-image: url(../img/back.jpg);
 .Definition {font-family: Doctor Soos Light;
         font-size: 25px;color: white;text-align: r;}
 
-.KotakT{width:78%;height:80%;
-    margin-top:42%;
+.Structure {width:78%; height: 50%;
+    margin-top: 40%;
+    margin-left:0%;
     position: absolute;
-    z-index: -1;
-    background-image: url("../img/top.png");
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
     border-radius: 20px 20px 20px 20px;}
-
-.KotakS{width:78%;height:40%;
-    margin-top:42%;
-    position: absolute;
-    z-index: -1;
-    background-image: url("../img/top.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
-    border-radius: 20px 20px 20px 20px;}
-
-.JudulS {font-family: EDO SZ;
-    font-size: 40px;
-    color: white; margin-top: 5%}
-
-.Struktur {margin-top: -15%;
-    font-family: Doctor Soos Light;
-        font-size: 25px;color: white;}
 
 footer {text-align: center;
     font-family: Varsity Regular;
@@ -121,7 +102,7 @@ footer {text-align: center;
     font-size: 30px;
     width:78%;height:10%;
     margin-top:90%;
-    margin-left:20% ;
+    margin-left:18% ;
     position: absolute;
     z-index: -1;
     background-image: url("../img/top.png");
