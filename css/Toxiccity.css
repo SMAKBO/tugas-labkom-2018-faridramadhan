@@ -70,7 +70,7 @@ body    {background-image: url(../img/back.jpg);
     border-radius: 20px 20px 20px 20px;}
 
 
-.KotakDef{width:78%;height:40%;
+.KotakDefi {width:78%;height:100%;
     margin-top:67%;
     position: absolute;
     z-index: -1;
@@ -80,11 +80,11 @@ body    {background-image: url(../img/back.jpg);
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
     border-radius: 20px 20px 20px 20px;}
 
-.JudulDef {font-family: EDO SZ;
+.JudulDefi {font-family: EDO SZ;
     font-size: 40px;
     color: white; margin-top: 5%}
 
-.Definition {font-family: Doctor Soos Light;
+.Definitionn {font-family: Doctor Soos Light;
         font-size: 25px;color: white;text-align: r;}
 
 footer {text-align: center;
