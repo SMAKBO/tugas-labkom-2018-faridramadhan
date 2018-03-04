@@ -51,6 +51,7 @@ body    {background-image: url(../img/back.jpg);
     display: block;}
 
 .sidenav a:hover{
+    border-radius: 5px 5px 5px 5px;
     background-color: white;
     color: black }
 
@@ -98,7 +99,7 @@ body    {background-image: url(../img/back.jpg);
 
 footer {
     width:78%;height:19%;
-    margin-top:89%;
+    margin-top:89.5%;
     margin-left:18% ;
     position: absolute;
     z-index: -1;
