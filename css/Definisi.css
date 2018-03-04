@@ -87,7 +87,7 @@ body    {background-image: url(../img/back.jpg);
 .Definition {font-family: Doctor Soos Light;
         font-size: 25px;color: white;text-align: r;}
 
-.KotakT{width:78%;height:40%;
+.KotakT{width:78%;height:80%;
     margin-top:42%;
     position: absolute;
     z-index: -1;
