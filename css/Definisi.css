@@ -80,8 +80,9 @@ body    {background-image: url(../img/back.jpg);
     border-radius: 20px 20px 20px 20px;}
 
 
-.KotakDef{width:78%;height:40%;
+.KotakDef{width:70%;height:40%;
     margin-top:67%;
+    margin-left: 4.5%;
     position: absolute;
     z-index: -1;
     background-image: url("../img/top.png");
@@ -97,9 +98,9 @@ body    {background-image: url(../img/back.jpg);
 .Definition {font-family: Doctor Soos Light;
         font-size: 25px;color: white;text-align: r;}
 
-.Structure {width:78%; height: 50%;
+.Structure {width:70%; height: 50%;
     margin-top: 40%;
-    margin-left:18%;
+    margin-left:22.5%;
     position: absolute;
     background-size: cover;
     background-repeat: no-repeat;
@@ -107,9 +108,9 @@ body    {background-image: url(../img/back.jpg);
     border-radius: 20px 20px 20px 20px;}
 
 footer {
-    width:78%;height:19%;
+    width:70%;height:19%;
     margin-top:89.5%;
-    margin-left:18% ;
+    margin-left:22.5% ;
     position: absolute;
     z-index: -1;
     background-image: url("../img/top.png");
@@ -120,5 +121,39 @@ footer {
 
 .MadeBy {font-family: Varsity Regular; 
     color: white;
-    font-size: 40px;padding-left: 3%;}
+    font-size: 40px;
+    padding-left: 3%;}
 
+.KotakHis {width:70%;height:82%;
+    margin-top: 10%;
+    margin-left: 4.5%;
+    position: absolute;
+    z-index: -1;
+    background-image: url("../img/top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.JudulHis {font-family: EDO SZ;
+    font-size: 40px;
+    color: white; margin-top: 5%}
+
+.History {font-family: Doctor Soos Light;
+        font-size: 25px;color: white;text-align: r;}
+
+.Caca {width:70%;height:19%;
+    margin-top:5%;
+    margin-left:22.5% ;
+    position: absolute;
+    z-index: -1;
+    background-image: url("../img/top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.Dibuat {font-family: Varsity Regular; 
+    color: white;
+    font-size: 40px;
+    padding-left: 3%;}
