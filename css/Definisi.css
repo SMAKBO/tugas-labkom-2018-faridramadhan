@@ -1,3 +1,12 @@
+@font-face {
+    font-family: Varsity Regular;
+    src: url(../font/Varsity.ttf);}
+@font-face {
+    font-family: EDO SZ;
+    src: url(../font/edosz.ttf);}
+@font-face {
+    font-family: Doctor Soos Light;
+    src: url(../font/DoctorSoosLight.ttf);}
 
 .Header{    
     width:81.50%;height:12.00%;
@@ -109,6 +118,7 @@ footer {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
     border-radius: 20px 20px 20px 20px;}
 
-.MadeBy {font-family: Varsity Regular;
+.MadeBy {font-family: Varsity Regular; 
+    color: white;
     font-size: 40px;padding-left: 3%;}
 
