@@ -164,3 +164,32 @@ body    {background-image: url(../img/back.jpg);
     background-repeat: no-repeat;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
     border-radius: 20px 20px 20px 20px;}
+
+.KotakTox {width:70%;height:82%;
+    margin-top: 10%;
+    margin-left: 4.5%;
+    position: absolute;
+    z-index: -1;
+    background-image: url("../img/top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.JudulTox {font-family: EDO SZ;
+    font-size: 40px;
+    color: white; margin-top: 5%}
+
+.Toxic {font-family: Doctor Soos Light;
+        font-size: 25px;color: white;text-align: r;}
+
+.Dimas {width:70%;height:19%;
+    margin-top:52%;
+    margin-left:22.5% ;
+    position: absolute;
+    z-index: -1;
+    background-image: url("../img/top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
