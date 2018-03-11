@@ -107,8 +107,8 @@ body    {background-image: url(../img/back.jpg);
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
     border-radius: 20px 20px 20px 20px;}
 
-footer {
-    width:70%;height:19%;
+.Tesar {
+    width:70%;height:21%;
     margin-top:89.5%;
     margin-left:22.5% ;
     position: absolute;
@@ -119,7 +119,7 @@ footer {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
     border-radius: 20px 20px 20px 20px;}
 
-.MadeBy {font-family: Varsity Regular; 
+.MadeBy {font-family: EDO SZ; 
     color: white;
     font-size: 40px;
     padding-left: 3%;}
@@ -157,3 +157,10 @@ footer {
     color: white;
     font-size: 40px;
     padding-left: 3%;}
+
+.us {width: 850px; height: 500px;
+    margin-top: 10%; margin-left: 26%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
