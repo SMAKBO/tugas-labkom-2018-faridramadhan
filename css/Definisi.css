@@ -165,7 +165,7 @@ body    {background-image: url(../img/back.jpg);
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
     border-radius: 20px 20px 20px 20px;}
 
-.KotakTox {width:70%;height:100%;
+.KotakTox {width:70%;height:10%;
     margin-top: 10%;
     margin-left: 4.5%;
     position: absolute;
@@ -184,8 +184,8 @@ body    {background-image: url(../img/back.jpg);
         font-size: 25px;color: white;text-align: r;}
 
 .Dimas {width:70%;height:19%;
-    margin-top:52%;
-    margin-left:4.5% ;
+    margin-top:95%;
+    margin-left:22.5% ;
     position: absolute;
     z-index: -1;
     background-image: url("../img/top.png");
