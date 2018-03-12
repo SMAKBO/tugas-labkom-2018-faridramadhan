@@ -193,3 +193,44 @@ body    {background-image: url(../img/back.jpg);
     background-repeat: no-repeat;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
     border-radius: 20px 20px 20px 20px;}
+.KotakUses {width:70%;height:170%;
+    margin-top: 10%;
+    margin-left: 4.5%;
+    position: absolute;
+    z-index: -1;
+    background-image: url("../img/top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.JudulUses {font-family: EDO SZ;
+    font-size: 40px;
+    color: white; margin-top: 5%}
+
+.Uses {font-family: Doctor Soos Light;
+        font-size: 25px;color: white;text-align: center;}
+
+
+.Farid {width:70%;height:21%;
+    margin-top:110%;
+    margin-left:22.5% ;
+    position: absolute;
+    z-index: -1;
+    background-image: url("../img/top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.Dibikin {font-family: Varsity Regular; 
+    color: white;
+    font-size: 40px;
+    padding-left: 3%;}
+
+.us {width: 850px; height: 500px;
+    margin-top: 10%; margin-left: 26%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
