@@ -165,7 +165,7 @@ body    {background-image: url(../img/back.jpg);
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
     border-radius: 20px 20px 20px 20px;}
 
-.KotakTox {width:70%;height:100%;
+.KotakTox {width:70%;height:110%;
     margin-top: 10%;
     margin-left: 4.5%;
     position: absolute;
@@ -193,6 +193,7 @@ body    {background-image: url(../img/back.jpg);
     background-repeat: no-repeat;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
     border-radius: 20px 20px 20px 20px;}
+
 .KotakUses {width:70%;height:170%;
     margin-top: 10%;
     margin-left: 4.5%;
@@ -235,3 +236,125 @@ body    {background-image: url(../img/back.jpg);
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
     border-radius: 20px 20px 20px 20px;}
 
+.KotakIde {width:70%;height:170%;
+    margin-top: 10%;
+    margin-left: 4.5%;
+    position: absolute;
+    z-index: -1;
+    background-image: url("../img/top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.JudulIde {font-family: EDO SZ;
+    font-size: 40px;
+    color: white; margin-top: 5%}
+
+.Identification {font-family: Doctor Soos Light;
+        font-size: 25px;color: white;text-align: center;}
+
+
+.Ciptaning {width:70%;height:21%;
+    margin-top:110%;
+    margin-left:22.5% ;
+    position: absolute;
+    z-index: -1;
+    background-image: url("../img/top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.By {font-family: Varsity Regular; 
+    color: white;
+    font-size: 40px;
+    padding-left: 3%;}
+
+.KotakPre {width:70%;height:90%;
+    margin-top: 10%;
+    margin-left: 4.5%;
+    position: absolute;
+    z-index: -1;
+    background-image: url("../img/top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.JudulPre {font-family: EDO SZ;
+    font-size: 40px;
+    color: white; margin-top: 5%}
+
+.Preparation {font-family: Doctor Soos Light;
+        font-size: 25px;color: white;text-align: center;}
+
+
+.Ayu {width:70%;height:21%;
+    margin-top:80%;
+    margin-left:22.5% ;
+    position: absolute;
+    z-index: -1;
+    background-image: url("../img/top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.Made {font-family: Varsity Regular; 
+    color: white;
+    font-size: 40px;
+    padding-left: 3%;}
+
+.KotakPro {width:70%;height:180%;
+    margin-top: 10%;
+    margin-left: 4.5%;
+    position: absolute;
+    z-index: -1;
+    background-image: url("../img/top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.JudulPro {font-family: EDO SZ;
+    font-size: 40px;
+    color: white; margin-top: 5%}
+
+.Properties {font-family: Doctor Soos Light;
+        font-size: 25px;color: white;text-align: center;}
+
+
+.MuthiS {width:70%;height:21%;
+    margin-top:80%;
+    margin-left:22.5% ;
+    position: absolute;
+    z-index: -1;
+    background-image: url("../img/top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.O {font-family: Varsity Regular; 
+    color: white;
+    font-size: 40px;
+    padding-left: 3%;}
+
+.KotakUs {width:70%;height:180%;
+    margin-top: 10%;
+    margin-left: 4.5%;
+    position: absolute;
+    z-index: -1;
+    background-image: url("../img/top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.JudulUs {font-family: EDO SZ;
+    font-size: 40px;
+    color: white; margin-top: 5%}
+
+.AboutUs {font-family: Doctor Soos Light;
+        font-size: 25px;color: white;text-align: center;}
